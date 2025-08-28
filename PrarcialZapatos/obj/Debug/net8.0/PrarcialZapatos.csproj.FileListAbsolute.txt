@@ -1,0 +1,15 @@
+C:\Users\salak301\Desktop\Mariana-Duque-Zapatos\PrarcialZapatos\bin\Debug\net8.0\PrarcialZapatos.exe
+C:\Users\salak301\Desktop\Mariana-Duque-Zapatos\PrarcialZapatos\bin\Debug\net8.0\PrarcialZapatos.deps.json
+C:\Users\salak301\Desktop\Mariana-Duque-Zapatos\PrarcialZapatos\bin\Debug\net8.0\PrarcialZapatos.runtimeconfig.json
+C:\Users\salak301\Desktop\Mariana-Duque-Zapatos\PrarcialZapatos\bin\Debug\net8.0\PrarcialZapatos.dll
+C:\Users\salak301\Desktop\Mariana-Duque-Zapatos\PrarcialZapatos\bin\Debug\net8.0\PrarcialZapatos.pdb
+C:\Users\salak301\Desktop\Mariana-Duque-Zapatos\PrarcialZapatos\obj\Debug\net8.0\PrarcialZapatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak301\Desktop\Mariana-Duque-Zapatos\PrarcialZapatos\obj\Debug\net8.0\PrarcialZapatos.AssemblyInfoInputs.cache
+C:\Users\salak301\Desktop\Mariana-Duque-Zapatos\PrarcialZapatos\obj\Debug\net8.0\PrarcialZapatos.AssemblyInfo.cs
+C:\Users\salak301\Desktop\Mariana-Duque-Zapatos\PrarcialZapatos\obj\Debug\net8.0\PrarcialZapatos.csproj.CoreCompileInputs.cache
+C:\Users\salak301\Desktop\Mariana-Duque-Zapatos\PrarcialZapatos\obj\Debug\net8.0\PrarcialZapatos.sourcelink.json
+C:\Users\salak301\Desktop\Mariana-Duque-Zapatos\PrarcialZapatos\obj\Debug\net8.0\PrarcialZapatos.dll
+C:\Users\salak301\Desktop\Mariana-Duque-Zapatos\PrarcialZapatos\obj\Debug\net8.0\refint\PrarcialZapatos.dll
+C:\Users\salak301\Desktop\Mariana-Duque-Zapatos\PrarcialZapatos\obj\Debug\net8.0\PrarcialZapatos.pdb
+C:\Users\salak301\Desktop\Mariana-Duque-Zapatos\PrarcialZapatos\obj\Debug\net8.0\PrarcialZapatos.genruntimeconfig.cache
+C:\Users\salak301\Desktop\Mariana-Duque-Zapatos\PrarcialZapatos\obj\Debug\net8.0\ref\PrarcialZapatos.dll
